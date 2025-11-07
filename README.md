@@ -52,4 +52,4 @@ The data was first normalized in Excel before being transformed in Power Query. 
 
 ## Downloads
 
-<a href = "https://github.com/gbenga4ayo/OlayinkaFaniran_Capstone-Project/raw/refs/heads/main/Assets/MySellar%20Analytics.pbix"> Download the Power BI file </a>
+<a href = "https://github.com/gbenga4ayo/OlayinkaFaniran_Capstone-Project/raw/refs/heads/main/Assets/MySellar%20Analytics2.pbix"> Download the Power BI file </a>
