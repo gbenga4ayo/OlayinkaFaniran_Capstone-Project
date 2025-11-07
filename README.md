@@ -12,11 +12,19 @@ Mysellar wants to use its sales data to inform decision-making on the profitable
 -	What are the top 5 and bottom 5 countries by order volumes?
 
 ## Tools
+- Excel
+- Power BI
 
 ## Techniques and Skills
+- Data Normalization
+- Data Transformation
+- Data Modelling
+- Bookmarks and Page Navigation
+- Report Automation
+- Data Visualization
 
 ## Data Source
-
+<a href = "https://en.wikipedia.org/wiki/List_of_African_countries_by_GDP_(nominal)"> Wikipaedia </a>
 ## Data Model
 
 ## Dashboard Insights
