@@ -24,8 +24,12 @@ Mysellar wants to use its sales data to inform decision-making on the profitable
 - Data Visualization
 
 ## Data Source
-<a href = "https://en.wikipedia.org/wiki/List_of_African_countries_by_GDP_(nominal)"> Wikipaedia </a>
+<a href = "https://en.wikipedia.org/wiki/List_of_African_countries_by_GDP_(nominal)"> Wikipedia </a>
+
 ## Data Model
+The data was first normalized in Excel before being transformed in Power Query. A date table was also created in Power Query, and the GDP table for African Countries was downloaded from Wikipaedia.
+
+![Data Model](https://github.com/gbenga4ayo/OlayinkaFaniran_Capstone-Project/blob/main/Assets/Data%20Model.png)
 
 ## Dashboard Insights
 ### Overview
