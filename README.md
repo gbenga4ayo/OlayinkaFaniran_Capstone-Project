@@ -33,11 +33,23 @@ The data was first normalized in Excel before being transformed in Power Query. 
 
 ## Dashboard Insights
 ### Overview
+
+![Overview Dashboard](https://github.com/gbenga4ayo/OlayinkaFaniran_Capstone-Project/blob/main/Assets/Overview%20Page.png)
+
 ### Product Insights
+
+![Product Insights](https://github.com/gbenga4ayo/OlayinkaFaniran_Capstone-Project/blob/main/Assets/Products%20Page.png)
+
 ### Region Insights
 
+![Region Insights](https://github.com/gbenga4ayo/OlayinkaFaniran_Capstone-Project/blob/main/Assets/Regions%20Page.png)
+
+
 ## Recommendations
+- Recommendation 1
+- Recommendation 2
+- Recommendation 3
 
 ## Downloads
 
-Based on historical data for the last two and a half years, this repository shall perform a descriptive analysis and present valuable insights to guide Mysellars sales operations.
+<a href = "https://github.com/gbenga4ayo/OlayinkaFaniran_Capstone-Project/raw/refs/heads/main/Assets/MySellar%20Analytics.pbix"> Download the Power BI file </a>
